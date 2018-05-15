@@ -1,0 +1,35 @@
+read -r -d '' msg << TIP
+================================\n
+1. Active the plugin in\e[35m gnome-tweak > Extensions > Mconnect \e[0m, then config these options: \n
+    +++General+++ \n\n
+    turn on \e[33m "Device Auto-Mount" \e[0m and \e[33m"Nautilus Intergration"\e[0m
+    \n
+    +++Advanced > Service Provider+++\n
+    select\e[33m MCONNECT \e[0min Service Provider\n
+    turn on\e[33m "Service Auto-Start" \e[0m and\e[33m "Persistent Discovery"\e[0m
+\n
+\n
+------------
+\n
+\n
+2. Install\e[1m the KDE connect \e[0min in your \e[1m mobile phone \e[0m.\n
+    this is the google play link:\n
+    \e[1mhttps://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp\e[0m\n
+    (also you can search 'kdeconnect' in google play)\n
+
+\n\n
+3. Paired your phone and computer
+    Make sure your phone and computer in the same subnetwork, open kdeconnect in your phone, you will find the computer
+    
+
+\n----------------------\n
+more about mconnect , see:\e[37mhttps://github.com/bboozzoo/mconnect\e[0m\n
+================================
+TIP
+post_install(){
+    echo -e $msg
+}
+
+post_upgrade(){
+    echo -e $msg
+}
