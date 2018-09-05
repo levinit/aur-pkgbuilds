@@ -1,0 +1,7 @@
+src/
+.SRCINFO
+pkg/
+*.deb
+*.tar*
+*.zip
+*.rar
