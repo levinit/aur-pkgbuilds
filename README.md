@@ -1,6 +1,16 @@
-levinit的AUR业余打包。查看>>[More AURs I maintain-我维护的更多AUR](https://aur.archlinux.org/packages/?SeB=m&K=levinit)。
+levinit的AUR业余打包。
 
+# 安装Installation
 
+- 查看>>[More AURs I maintain-我维护的更多AUR](https://aur.archlinux.org/packages/?SeB=m&K=levinit)，使用aur helper（如yay）进行安装。
+
+- 进入到单个项目目录中使用makepkg手动构建并安装。
+
+  ```shell
+  #for example
+  cd nautilus-megasync
+  makepkg -i #-i参数自动在构建后安装(install)
+  ```
 
 # 列表List
 
@@ -33,3 +43,5 @@ levinit的AUR业余打包。查看>>[More AURs I maintain-我维护的更多AUR]
 - [nautilus-megasync](https://mega.co.nz/#sync)  Upload your files to your Mega account from nautilus
 
 - [wechat_web_devtools](https://github.com/cytle/wechat_web_devtools)  wechat web devtools 微信web开发工具
+
+- [gopanda](https://aur.archlinux.org/packages/gopanda/) [pandanet](https://pandanet-igs.com/communities/pandanet)熊猫围棋客户端
