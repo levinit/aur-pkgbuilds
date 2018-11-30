@@ -14,9 +14,11 @@ levinit的AUR业余打包。
 
 # 列表List
 
-- [gnome-shell-extension-mconnect](https://aur.archlinux.org/packages/gnome-shell-extension-mconnect/)
+- ~~[gnome-shell-extension-mconnect](https://aur.archlinux.org/packages/gnome-shell-extension-mconnect/)~~
 
-  KDE Connect/MConnect integration for Gnome Shell
+  ~~KDE Connect/MConnect integration for Gnome Shell~~
+
+  Recommend：[gnome-shell-extension-gsconnect](https://aur.archlinux.org/packages/gnome-shell-extension-gsconnect/)
 
 - [adhost](https://github.com/levinit/adhosts)  shell script for updating google hosts and blocking ad hosts.更新屏蔽广告和"科学上网"的hosts的小脚本。
 
