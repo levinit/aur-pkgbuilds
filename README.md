@@ -40,10 +40,14 @@ levinit的AUR业余打包。
 
 - [moedict](https://racklin.github.io/moedict-desktop/download.html)  Chinese Dictionary漢語詞典-萌典/mengdian
 
-- [moonplayer-plugins](https://github.com/coslyk/moonplayer-plugins)  Plugins for Moon Player
+- ~~[moonplayer-plugins](https://github.com/coslyk/moonplayer-plugins)  Plugins for Moon Player~~
+
+  [archlinuxcn](https://github.com/archlinuxcn/repo/tree/master/moonplayer-plugins) has accept this aur.
 
 - [nautilus-megasync](https://mega.co.nz/#sync)  Upload your files to your Mega account from nautilus
 
-- [wechat_web_devtools](https://github.com/cytle/wechat_web_devtools)  wechat web devtools 微信web开发工具
+- ~~[wechat_web_devtools](https://github.com/cytle/wechat_web_devtools)  wechat web devtools 微信web开发工具+~~
 
-- [gopanda](https://aur.archlinux.org/packages/gopanda/) [pandanet](https://pandanet-igs.com/communities/pandanet)熊猫围棋客户端
+  mege to [wechat-devtools](https://aur.archlinux.org/packages/wechat-devtools/)
+
+- ###### [gopanda](https://aur.archlinux.org/packages/gopanda/) [pandanet](https://pandanet-igs.com/communities/pandanet)熊猫围棋客户端
