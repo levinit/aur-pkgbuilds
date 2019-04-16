@@ -50,4 +50,6 @@ levinit的AUR业余打包。
 
   mege to [wechat-devtools](https://aur.archlinux.org/packages/wechat-devtools/)
 
-- ###### [gopanda](https://aur.archlinux.org/packages/gopanda/) [pandanet](https://pandanet-igs.com/communities/pandanet)熊猫围棋客户端
+- [gopanda](https://aur.archlinux.org/packages/gopanda/) [pandanet](https://pandanet-igs.com/communities/pandanet)  熊猫围棋客户端Gopanda weiqi (IGS)
+
+- [deepi-baidu-pan](https://aur.archlinux.org/packages/deepin-baidu-pan/)  百度网盘deepin-wine版

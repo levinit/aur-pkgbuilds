@@ -9,10 +9,9 @@ url='https://github.com/vinceliuice/grub2-themes'
 license=('GPL')
 depends=('grub')
 optdepends=('grub-customizer')
-makedepends=('git')
 install=${pkgname}.install
 
-source=('git://github.com/vinceliuice/grub2-themes')
+source=('https://github.com/vinceliuice/grub2-themes/archive/1.2.tar.gz')
 
 md5sums=('SKIP')
 
@@ -21,4 +20,3 @@ package() {
     cd $srcdir/grub2-themes/grub-theme-vimix
     cp Vimix $pkgdir/boot/grub/themes/ -r
 }
-
