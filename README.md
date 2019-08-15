@@ -32,9 +32,9 @@ levinit的AUR业余打包。
 
 - [grub-themes-solarized-dark-materialized](https://www.gnome-look.org/p/1180510/) Solarized-Dark-Materialized grub2 theme
 
-- [grub-themes-stylishdark](https://github.com/vinceliuice/grub2-themes)  stylishdark grub2 theme
+- ~~[grub-themes-stylishdark](https://github.com/vinceliuice/grub2-themes)  stylishdark grub2 theme~~
 
-- [grub-themes-vimix](https://github.com/vinceliuice/grub2-themes)  vimix grub2 theme
+- ~~[grub-themes-vimix](https://github.com/vinceliuice/grub2-themes)  vimix grub2 theme~~
 
 - [mockingbot](https://mockingbot.com/downloads)  A prototyping & collaboration tool 墨刀/modao/MockingBot
 
@@ -53,3 +53,5 @@ levinit的AUR业余打包。
 - [gopanda](https://aur.archlinux.org/packages/gopanda/) [pandanet](https://pandanet-igs.com/communities/pandanet)  熊猫围棋客户端Gopanda weiqi (IGS)
 
 - ~~[deepi-baidu-pan](https://aur.archlinux.org/packages/deepin-baidu-pan/)  百度网盘deepin-wine版~~
+
+- [edk2-avmf](https://aur.archlinux.org/packages/edk2-avmf/) QEMU ARM/AARCH64 Virtual Machine Firmware (Tianocore UEFI firmware).
